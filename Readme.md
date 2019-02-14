@@ -8,7 +8,7 @@ README.txt
 donde se encuentran los datos de cada volúmen. Los nombres de loas archivos están en el formato indicado en el enunciado del proyecto.
 
 Las entradas maś pequeñas son /SphereInv y /Sphere. 
-El volúmen más grande en cantidad de imágenes es /pok y el volúmen con las imágenes de mayor tamaños es /Planets.
+El volúmen más grande en cantidad de imágenes es /pok y el volúmen con las imágenes de mayor tamaño es /Planets.
 
 /Random y /Perlin contienen entradas moderadas.
 
